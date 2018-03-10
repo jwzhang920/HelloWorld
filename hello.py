@@ -1,7 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+imort pdb
+pdb.set_trace()
 myDict = {}
 myList = [1,2,3,4]
 myList1 = [[1,2,3,4],
